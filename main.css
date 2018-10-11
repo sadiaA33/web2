@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.wrapper{
+    padding: 20px 40px
+}
+
+#banner {
+    display: block;
+  }
+  
+  .images {
+    display: inline-block;
+    max-width: 100%;
+    margin: 0 2.5%;
+    max-width: 20%;
+    max-height: 20%;
+
+  }
