@@ -1,22 +1,60 @@
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+} 
+
 body{
-    background-color: aqua;
+    background-color:lightsalmon;
 }
-h1{
-    font-family: 'Times New Roman', Times, serif;
+h1,h2{
+    color: blueviolet;
+    font-style: italic;
+}
+h3,h4{
+    color: orangered;
+}
+h5,h6{
+    color: green;
 }
 .wrapper{
-    padding: 20px 40px
+    
+    background-image: url("https://img.freepik.com/free-vector/education-logo-with-books_23-2147502567.jpg?size=338&ext=jpg" );
+    background-repeat: no-repeat;
+    background-position: right top;
+    text-align: center;
+    
 }
 
 #banner {
     display: block;
+    background-color:lightblue;
   }
   
   .images {
     display: inline-block;
-    max-width: 100%;
+    max-width: 90%;
     margin: 0 2.5%;
     max-width: 20%;
     max-height: 20%;
 
   }
+ #heading{
+     text-align: center;
+     font-family: cursive;
+
+ }
+ #p1{
+     font-size: 160%;
+     padding-left: 4%;
+     padding-right: 4%;
+ }
+
+ #list1{
+     background-image: url("https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+     font-size: 30px;
+     text-align: left;
+     padding: 10%;
+     color:red;
+ }
